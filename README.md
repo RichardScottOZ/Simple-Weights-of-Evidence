@@ -9,7 +9,7 @@ See if we can make a simple python example of this style of modelling
 
 ## 3D
 - https://github.com/RichardScottOZ/3DWofE
-	- fork of https://github.com/e-farahbakhsh/3DWofE to include data example
+	- fork of https://github.com/e-farahbakhsh/3DWofE to include data example [needs a lot of work to generalise as per this repository]
 	
 
 # Notebook
