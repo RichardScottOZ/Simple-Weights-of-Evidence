@@ -6,6 +6,10 @@ See if we can make a simple python example of this style of modelling
 - https://github.com/GispoCoding/eis_toolkit/tree/master/eis_toolkit/prediction [Finland]
 	- https://github.com/GispoCoding/eis_toolkit/blob/master/notebooks/weights_of_evidence.ipynb
 - https://github.com/chudasama-bijal/QGIS-Plugin-Weights-of-Evidence-Model [QGIS Plugin]
+
+## 3D
+- https://github.com/RichardScottOZ/3DWofE
+	- fork of https://github.com/e-farahbakhsh/3DWofE to include data example
 	
 
 # Notebook
